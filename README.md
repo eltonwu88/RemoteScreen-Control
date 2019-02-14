@@ -3,7 +3,7 @@
 ### this client app is used with screen capture app.
 ### this app is just a prototype and just for fun.
 
-##TODO
+## TODO
 ### add virtual key on the bottom(home key,back key and etc.)
 ### support screen rotating.
 ### improve the experience of sliding.
